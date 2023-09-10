@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372625435433",
+    "project_id": "greentrekker-b7598",
+    "storage_bucket": "greentrekker-b7598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372625435433:android:00685a0583e79b265be538",
+        "android_client_info": {
+          "package_name": "com.example.gfg_ecotech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAodkgppegsxdzxIesznbU_qXR8Re6KmQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
