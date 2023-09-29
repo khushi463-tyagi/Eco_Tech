@@ -8,10 +8,13 @@ Plogging is a fitness and environmental activity that combines jogging (or runni
 ##About Our WebApp
 Our webapp focuses on environmental issue of Trash. 
 
+## Technologies Used
+Flutter
+Python 
+Firebase
 
 
-
-##Login Page
+## Login Page
 ![Screenshot 2023-09-29 235816](https://github.com/khushi463-tyagi/GFG_ECOTECH/assets/66127538/eca86e87-aef7-4f5b-9c0d-804b48a778b4)
 
 
@@ -20,3 +23,9 @@ Our webapp focuses on environmental issue of Trash.
 
 ## Timer and Image detected
 ![Screenshot 2023-09-29 235103](https://github.com/khushi463-tyagi/GFG_ECOTECH/assets/66127538/cb1d4a95-736a-4238-bbe6-629422718e60)
+
+
+## Future Development
+We want to add a leaderboard and introduce a point system.
+We also want to add  a location tracking , so users can track their route.
+  
