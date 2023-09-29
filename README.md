@@ -11,5 +11,4 @@ Our webapp focuses on environmental issue of Trash.
 
 
 
-
-!(https://github.com/khushi463-tyagi/GFG_ECOTECH/assets/66127538/cb1d4a95-736a-4238-bbe6-629422718e60)
+![Screenshot 2023-09-29 235103](https://github.com/khushi463-tyagi/GFG_ECOTECH/assets/66127538/cb1d4a95-736a-4238-bbe6-629422718e60)
