@@ -19,7 +19,7 @@ As we can see jogging is done by every age group people so we can take this as a
 While running if you see trash you can pick it up and throw it in a dustbin which helps in promoting a clean environment. 
 <br> So, our webapp focuses on this and when you start running you can log into our App and start the stopwatch which will show your jogging time when you see trash you can click its photo and upload the model will detect it is trash and then you can pick up it and throw it in dustbin during this you can also pause your stopwatch.
 
-### So lets contribute towards Environment and Health together for better future ###
+### So let's contribute towards the Environment and Health together for a better future ###
 <br>
 
 ## Technologies Used ##
@@ -51,8 +51,8 @@ This is the first page that appears at user's end.
 
 ## Home Page
 When you have verified yourself you will see the homepage where you can see the stopwatch and upload image option from both the camera and gallery option
-<br> If you see a trash pause your timer and click the photo and then the AI model will detect the image and will tell it is a trash or not.
-<br> If it is a trash then you can pick it up and throw in near by dustbin
+<br> If you see trash pause your timer and click the photo and then the AI model will detect the image and will tell if it is trash or not.
+<br> If it is trash then you can pick it up and throw it in a nearby dustbin
 ![Screenshot 2023-09-29 235117](https://github.com/khushi463-tyagi/GFG_ECOTECH/assets/66127538/f5915a7a-aa94-4757-a5bf-460c775d13d3)
 <br>
 
@@ -60,6 +60,8 @@ When you have verified yourself you will see the homepage where you can see the 
 
 
 ## Future Development
-We want to add a leaderboard and introduce a point system.
-We also want to add  a location tracking , so users can track their route.
+This app has a lot of future scope and some of them are :
+<br>We can maintain a LeaderBoard and award user according to items they have plogged which motivate the user to participate in this.
+<br>We also want to add location tracking, so that users can track their distance and path along with their routes.
+
   
