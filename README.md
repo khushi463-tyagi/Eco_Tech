@@ -1,18 +1,18 @@
-# GreenTrekker 
-A Plogging WebApp
+# GreenTrekker #
+### A Plogging WebApp ###
 
-## What is Plogging
+## What is Plogging ##
 
 ![Screenshot 2023-09-30 224643](https://github.com/khushi463-tyagi/GFG_ECOTECH/assets/66127538/d399817b-d129-4312-8b63-a263542464c6)
 
-PICK UP AND RUN
+### PICK UP AND RUN ###
 Plogging is a combination of jogging with picking up litter, merging the Swedish verbs plocka upp.
 Plogging is a fitness and environmental activity that combines jogging (or running) with picking up litter or trash along the way.
 
-##About Our WebApp
+##About Our WebApp ###
 Our webapp focuses on environmental issue of Trash. 
 
-## Technologies Used
+## Technologies Used ##
 Flutter
 Python 
 Firebase
