@@ -9,13 +9,20 @@
 Plogging is a combination of jogging with picking up litter, merging the Swedish verbs plocka upp.
 Plogging is a fitness and environmental activity that combines jogging (or running) with picking up litter or trash along the way.
 
-##About Our WebApp ###
+## About Our WebApp ##
 Our webapp focuses on environmental issue of Trash. 
 
 ## Technologies Used ##
-Flutter
-Python 
-Firebase
+### Flutter
+![Screenshot 2023-09-30 231015](https://github.com/khushi463-tyagi/GFG_ECOTECH/assets/66127538/55c75292-f7c8-456b-bf40-520d537500d0)
+
+### Python 
+![Screenshot 2023-09-30 231052](https://github.com/khushi463-tyagi/GFG_ECOTECH/assets/66127538/dea4d5c8-8832-4a15-935f-3fb00d33c5fd)
+
+
+### Firebase
+![Screenshot 2023-09-30 231036](https://github.com/khushi463-tyagi/GFG_ECOTECH/assets/66127538/b836ca17-ca09-4070-80f4-e850ac5906f7)
+
 
 
 ## Login Page
