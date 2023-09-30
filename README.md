@@ -43,16 +43,19 @@ While running if you see trash you can pick it up and throw it in a dustbin whic
 
 ## Login Page
 This is the first page that appears at user's end. 
-<br>If user is not a registered user first of all you have to register yourself at our app and then log into the app with that credentials.
+<br>If the user is not a registered user first of all you have to register yourself at our app and then log into the app with that credentials.
 <br>If you are not a valid user you will not be able to access so please register on this.<br>
 
 ![Screenshot 2023-09-29 235816](https://github.com/khushi463-tyagi/GFG_ECOTECH/assets/66127538/eca86e87-aef7-4f5b-9c0d-804b48a778b4)
 
 
 ## Home Page
+When you have verified yourself you will see the homepage where you can see the stopwatch and upload image option from both the camera and gallery option
+<br> If you see a trash pause your timer and click the photo and then the AI model will detect the image and will tell it is a trash or not.
+<br> If it is a trash then you can pick it up and throw in near by dustbin
 ![Screenshot 2023-09-29 235117](https://github.com/khushi463-tyagi/GFG_ECOTECH/assets/66127538/f5915a7a-aa94-4757-a5bf-460c775d13d3)
+<br>
 
-## Timer and Image detected
 ![Screenshot 2023-09-29 235103](https://github.com/khushi463-tyagi/GFG_ECOTECH/assets/66127538/cb1d4a95-736a-4238-bbe6-629422718e60)
 
 
